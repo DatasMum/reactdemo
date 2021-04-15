@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "testinglocalb6e66e4d": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
